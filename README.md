@@ -1,2 +1,3 @@
 # testrepo
-test lineb 
+line1
+line2
